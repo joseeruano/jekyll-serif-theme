@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
-layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+title: IlCloset.gt - Prendas únicas 100% originales
+layout: Inicio
+description: Una solución única y fácil para comprar tus jeans. Visita nuestro perfil en Instagram y conoce un poco más sobre nosotros.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# IlCloset.gt - Prendas únicas 100% originales
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Una solución única y fácil para comprar tus jeans. Visita nuestro perfil en Instagram y conoce un poco más sobre nosotros.
